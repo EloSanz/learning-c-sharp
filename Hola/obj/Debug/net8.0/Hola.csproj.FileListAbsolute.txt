@@ -1,0 +1,15 @@
+D:\GitHub\Csharp\Hola\bin\Debug\net8.0\Hola.exe
+D:\GitHub\Csharp\Hola\bin\Debug\net8.0\Hola.deps.json
+D:\GitHub\Csharp\Hola\bin\Debug\net8.0\Hola.runtimeconfig.json
+D:\GitHub\Csharp\Hola\bin\Debug\net8.0\Hola.dll
+D:\GitHub\Csharp\Hola\bin\Debug\net8.0\Hola.pdb
+D:\GitHub\Csharp\Hola\obj\Debug\net8.0\Hola.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Csharp\Hola\obj\Debug\net8.0\Hola.AssemblyInfoInputs.cache
+D:\GitHub\Csharp\Hola\obj\Debug\net8.0\Hola.AssemblyInfo.cs
+D:\GitHub\Csharp\Hola\obj\Debug\net8.0\Hola.csproj.CoreCompileInputs.cache
+D:\GitHub\Csharp\Hola\obj\Debug\net8.0\Hola.sourcelink.json
+D:\GitHub\Csharp\Hola\obj\Debug\net8.0\Hola.dll
+D:\GitHub\Csharp\Hola\obj\Debug\net8.0\refint\Hola.dll
+D:\GitHub\Csharp\Hola\obj\Debug\net8.0\Hola.pdb
+D:\GitHub\Csharp\Hola\obj\Debug\net8.0\Hola.genruntimeconfig.cache
+D:\GitHub\Csharp\Hola\obj\Debug\net8.0\ref\Hola.dll
